@@ -14,12 +14,12 @@ require (
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/selinux v1.11.1
 	github.com/sirupsen/logrus v1.9.3
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.34.0
 	go.opentelemetry.io/otel/sdk v1.34.0
 	go.opentelemetry.io/otel/trace v1.34.0
-	golang.org/x/sys v0.30.0
+	golang.org/x/sys v0.31.0
 	golang.org/x/term v0.29.0
 	golang.org/x/text v0.22.0
 	google.golang.org/grpc v1.71.0
